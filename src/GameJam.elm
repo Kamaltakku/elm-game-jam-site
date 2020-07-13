@@ -2,7 +2,9 @@ module GameJam exposing (Model, main)
 
 import Browser
 import Browser.Dom exposing (Element)
-import Element exposing (Element, centerX, column, el, fill, fillPortion, height, image, layout, maximum, mouseOver, padding, px, rgb255, row, spacing, width)
+import Element exposing (Element, centerX, column, el, fill, fillPortion
+                        , height, image, layout, maximum, mouseOver, padding
+                        , px, rgb255, row, spacing, width)
 import Element.Background as Background
 import Element.Events exposing (..)
 import Element.Font as Font
